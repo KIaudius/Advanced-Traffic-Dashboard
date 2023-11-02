@@ -1,0 +1,22 @@
+# TODO: Update with exact module version
+numpy
+torch>=1.7
+opencv_python
+loguru
+scikit-image
+tqdm
+torchvision
+Pillow
+thop
+ninja
+tabulate
+tensorboard
+
+# verified versions
+onnx
+onnxruntime
+onnx-simplifier
+
+# Dash Modules
+dash
+dash-bootstrap-components
